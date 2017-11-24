@@ -1,0 +1,8 @@
+.idea
+.gradle
+build/classes
+build/libs
+out/production
+build/tmp
+
+
